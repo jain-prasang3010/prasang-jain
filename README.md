@@ -18,7 +18,7 @@ Welcome to my Data Analyst portfolio — focused on solving real-world business 
 
 ## 📄 Resume  
 
-👉 **[Download Resume (PDF)](https://github.com/jain-prasang3010/prasang-jain/blob/main/Prasang_Jain_Data_Analyst_Resume.pdf)**  
+👉 **[Download Resume (PDF)](https://github.com/jain-prasang3010/prasang-jain/blob/main/Prasang_Jain_Data_Analyst.pdf)**  
 
 ---
 
